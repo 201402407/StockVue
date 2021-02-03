@@ -1,7 +1,7 @@
-# StockVeu
+# StockVue
 ### 국장 재무제표 서칭 앱
 
-skill : Veu.js
+skill : Vue.js
 
 language : JS
 
